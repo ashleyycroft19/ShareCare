@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071552243442",
+    "firebase_url": "https://sharecare-390bf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sharecare-390bf",
+    "storage_bucket": "sharecare-390bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071552243442:android:e51bf545c0f7def2c3d26b",
+        "android_client_info": {
+          "package_name": "ashley.croft.sharecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071552243442-opf0uchauemp79229t9es9cemlf1t34f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ashley.croft.sharecare",
+            "certificate_hash": "7d95771336299e13bb99c11b46562258b761634e"
+          }
+        },
+        {
+          "client_id": "1071552243442-c8mktoe14mqlks17o5eqh30s3grq52mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWl6GbSgvNr-hd1u1nkLKyjeRuTsy2w-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071552243442-c8mktoe14mqlks17o5eqh30s3grq52mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
