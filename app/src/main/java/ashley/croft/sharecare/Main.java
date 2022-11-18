@@ -69,5 +69,17 @@ public class Main extends AppCompatActivity {
 
             }
         });
-    }
+
+    Button call = findViewById(R.id.call_btn);
+
+        call.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+            Intent it = new Intent(Main.this,Call.class);
+            startActivity(it);
+
+        }
+    });
+
+}
 }

@@ -9,30 +9,29 @@
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="OUR CONTACT INFORMATION :)"
+        android:text="CONTACT INFORMATION :)"
         android:textSize="25dp"
         android:textStyle="bold"
-        android:textColor="@color/black"/>
+        android:textColor="@color/black"
+        android:layout_margin="20dp"
+        />
 
-    <TextView
-        android:id="@+id/textView6"
+
+
+
+    <Button
+        android:id="@+id/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="phone #: 82+ 010-7407-3691"
-        android:textSize="20dp"
-        android:clickable="true"
-        android:layout_marginTop="40dp"/>
+        android:text="email"
+        android:layout_margin="20dp"/>
 
-
-    <TextView
-        android:id="@+id/textView7"
-        android:layout_marginTop="40dp"
+    <Button
+        android:id="@+id/phone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="email: yuri.croft26@stu.siskorea.org"
-        android:textSize="20dp"
-        android:clickable="true"/>
-
+        android:text="Phone"
+        android:layout_margin="20dp"/>
 
 
 </LinearLayout>
